@@ -9,7 +9,7 @@
 <header>
     <img src="../FB_IMG_17537556314784445.jpg" width="200" height="200">
 <br>
-    <li><MARK></MARK>TRISTAN A LOPEZ</STRONG></MARK></li>
+    <li><MARK><strong>TRISTAN A LOPEZ</STRONG></MARK></li>
 <br>
     <li>About me</li>
 <br>
